@@ -1,0 +1,25 @@
+vectorstore_faiss/
+vs_referentiel/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+explore_langchain.egg-info/
+
+# UV
+uv.lock
